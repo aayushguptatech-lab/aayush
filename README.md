@@ -55,14 +55,6 @@
 
 ---
 
-## 🔥 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aayushguptatech-lab&show_icons=true" />
-</div>
-
-
-
-
 ---
 
 ## ⚡ Fun Fact
