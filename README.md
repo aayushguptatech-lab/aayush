@@ -42,7 +42,7 @@
 
 ## 🌐 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/aayushgupta">
+  <a href="https://www.linkedin.com/in/aayush-gupta-12nov/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" />
   </a>
   <a href="https://twitter.com/">
